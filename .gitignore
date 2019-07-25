@@ -1,0 +1,69 @@
+﻿#
+# .gitignore: Ignore untracked files or directories.
+#
+
+# Library files
+#*.lib
+
+# Binary files or directories
+*.bin
+*.bin/
+
+# Backed files
+*.bak
+
+# Dependency files
+*.dep
+
+# Map files
+*.map
+
+# Listing files
+*.lst
+
+# Object files
+*.o
+*.d
+*.crf
+
+# Text files, ignored by default.
+# Use 'git add -f ' to track text files explicitly.
+*.txt
+
+# Keil project private configure files
+*.uvgui.*
+*.uvguix.*
+*.uvopt
+
+# Html files
+*.html
+*.htm
+
+# Setting files
+*.ini
+
+# Ctags file
+tags
+
+# SourceInsight files
+*.IAB
+*.IAD
+*.IMB
+*.IMD
+*.PFI
+*.PO
+*.PR
+*.PRI
+*.PS
+*.SearchResults
+*.WK3
+*.TMP
+
+# VSCode config files
+.vscode
+
+*.crf
+*.dep
+*.htm
+*.uvguix.*
+*.uvoptx
