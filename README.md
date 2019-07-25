@@ -8,4 +8,5 @@ Lib: HAL. <br>
 Peripheral: LCD display over SPI with DMA or not. <br>
 I/O: Button or Keypad driven.<br>
 
-## LVGL event driven refresh. LittleVgl: https://littlevgl.com
+LVGL event driven refresh. 
+LittleVgl: https://littlevgl.com<br>
